@@ -1,11 +1,12 @@
 import React from 'react'
 import './App.css'
+import Header from './Component/Header/Header'
 
 const App = () => {
   return (
     <div>
-      <h1>Hello this is from App.jsx component</h1>
-      <button className='btn'>hello</button>
+      <Header/>
+      
     </div>
   )
 }
