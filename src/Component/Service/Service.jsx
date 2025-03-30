@@ -8,7 +8,7 @@ const Service = () => {
       <h2>Services</h2>
 
       <div className="container services__container">
-        <article className='service'>
+        {/* <article className='service'>
           <div className="service__head">
             <h3>UI/UX</h3>
           </div>
@@ -36,7 +36,7 @@ const Service = () => {
             </li>
             
           </ul>
-        </article>
+        </article> */}
         {/* END OF UI/UX */}
 
         <article className='service'>
@@ -47,27 +47,27 @@ const Service = () => {
           <ul className="service__list">
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Custom Website Development</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Responsive Web Design</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Fullstack Development </p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>API Development & Integration </p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Authentication & Authorization </p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Backend Development </p>
             </li>
             
           </ul>
@@ -76,29 +76,29 @@ const Service = () => {
 
          <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Video Editing</h3>
           </div>
 
           <ul className="service__list">
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Intro & Outro Creation</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Slow Motion & Time-Lapse Editing</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Social Media Video Editing</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>YouTube Video Editing</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Color Correction & Grading</p>
             </li>
              {/* END OF Content Creation*/}
             

@@ -22,19 +22,19 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ years working</small>
+              <small>2+ years working</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ worldwide</small>
+              <small>2+ worldwide</small>
             </article>
 
             <article className="about__card">
               <IoFolderSharp className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ completed</small>
+              <small>10+ completed</small>
             </article>
           </div>
 
