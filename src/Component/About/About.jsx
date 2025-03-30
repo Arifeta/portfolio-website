@@ -39,10 +39,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deleniti
-            esse facere eaque ab iste, distinctio pariatur quibusdam quas modi
-            deserunt vitae ut perspiciatis fugit expedita, molestiae ad quidem
-            autem beatae.
+          Fullstack developer with experience in creating dynamic web applications, RESTful APIs, and database management. Passionate about backend development, problem-solving, and creating scalable solutions. Strong communicator, team player, and adaptable to new technologies.
           </p>
           <a href="#contact" className="btn btn-primary ">
             Let's Talk
