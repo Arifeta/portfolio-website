@@ -8,7 +8,7 @@ const Service = () => {
       <h2>Services</h2>
 
       <div className="container services__container">
-        {/* <article className='service'>
+        <article className='service'>
           <div className="service__head">
             <h3>UI/UX</h3>
           </div>
@@ -16,27 +16,27 @@ const Service = () => {
           <ul className="service__list">
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p> User Interface (UI) Design</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>User Experience (UX) Design</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Web App and Website Design</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Branding & Visual Identity</p>
             </li>
             <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur,elit.</p>
+            <p>Product Design (End-to-End)</p>
             </li>
             
           </ul>
-        </article> */}
+        </article>
         {/* END OF UI/UX */}
 
         <article className='service'>

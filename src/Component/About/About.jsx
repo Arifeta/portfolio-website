@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import ME from "../../assets/arifas.png";
+import ME from "../../assets/me-IMG-2-preview.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { IoFolderSharp } from "react-icons/io5";

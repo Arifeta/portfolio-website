@@ -4,8 +4,8 @@ import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG5 from "../../assets/pig-game.png";
+import IMG6 from "../../assets/backend1.png";
 import IMG7 from "../../assets/IMG-Delivery.png";
 
 const data = [
@@ -18,17 +18,17 @@ const data = [
   },
   {
     id:2,
-    image: IMG2,
+    image: IMG6,
     title: "Portfolio item 2",
-    github: "https://github.com/Arifeta/food-delivery",
-    demo: "https://food-delivery16.vercel.app"
+    github: "https://github.com/Arifeta/food-app",
+    // demo: "https://food-delivery16.vercel.app"
   },
   {
     id:3,
-    image: IMG3,
+    image: IMG5,
     title: "Portfolio item 3",
-    github: "https://github.com/Arifeta/food-delivery",
-    demo: "https://food-delivery16.vercel.app"
+    // github: "https://github.com/Arifeta/food-delivery",
+    // demo: "https://food-delivery16.vercel.app"
   }
 ]
 
