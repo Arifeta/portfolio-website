@@ -12,21 +12,21 @@ const data = [
   {
     id:1,
     image: IMG7,
-    title: "Portfolio item 1",
+    title: "Food-delivery fullstack website. React, Node.js, MongoDb",
     github: "https://github.com/Arifeta/food-delivery",
     demo: "https://food-delivery16.vercel.app"
   },
   {
     id:2,
     image: IMG6,
-    title: "Portfolio item 2",
+    title: "Food-app Backend API. Node.js, Express, MongoDb",
     github: "https://github.com/Arifeta/food-app",
     // demo: "https://food-delivery16.vercel.app"
   },
   {
     id:3,
     image: IMG5,
-    title: "Portfolio item 3",
+    title: "Roll Dice Game. HTML, CSS, Javascript",
     // github: "https://github.com/Arifeta/food-delivery",
     // demo: "https://food-delivery16.vercel.app"
   }
