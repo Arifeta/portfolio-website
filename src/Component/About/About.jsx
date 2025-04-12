@@ -25,11 +25,11 @@ const About = () => {
               <small>2+ years working</small>
             </article>
 
-            <article className="about__card">
+            {/* <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>2+ worldwide</small>
-            </article>
+            </article> */}
 
             <article className="about__card">
               <IoFolderSharp className="about__icon" />

@@ -37,9 +37,13 @@ const Contact = () => {
             <HiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>arifetamulugeta@gmail.com</h5>
-            <a href="mailto:arifetamulugeta@gmail.com" target="_blank">
-              Send a message
-            </a>
+            <a
+                href="https://mail.google.com/mail/?view=cm&to=arifetamulugeta@gmail.com"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                 Send a message
+          </a>
           </article>
           <article className="contact__option">
             <FaFacebookMessenger className="contact__option-icon" />
